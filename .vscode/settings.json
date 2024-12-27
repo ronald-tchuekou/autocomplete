@@ -1,0 +1,5 @@
+{
+   "cSpell.words": ["Mappeos", "SIRENE", "siret"],
+   "typescript.tsdk": "node_modules/typescript/lib",
+   "typescript.preferences.autoImportSpecifierExcludeRegexes": ["**/dist/", "**/build/", "@radix-ui/*", "node:test"]
+}
